@@ -19,15 +19,16 @@ As a scientist in training, I am actively involved in research and data science 
 
 ## 🔧 Skills
 
-![](https://img.shields.io/badge/Code-R%20project-informational?style=flat&logo=R&logoColor=white&color=38761d)
-![](https://img.shields.io/badge/Code-R%20Studio-informational?style=flat&logo=RStudio&logoColor=white&color=38761d)
-![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=38761d)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=38761d)
-![](https://img.shields.io/badge/Tools-Zotero-informational?style=flat&logo=zotero&logoColor=white&color=38761d)
-![](https://img.shields.io/badge/Tools-Mendeley-informational?style=flat&logo=mendeley&logoColor=white&color=38761d)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=38761d)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=38761d)
-![](https://img.shields.io/badge/Code-Stata-informational?style=flat&logoColor=white&color=38761d)
+![](https://img.shields.io/badge/Code-R%20project-informational?style=flat&logo=R&logoColor=white&color=276DC3)
+![](https://img.shields.io/badge/Code-RStudio-informational?style=flat&logo=RStudio&logoColor=white&color=75AADB)
+![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
+![](https://img.shields.io/badge/Tools-Zotero-informational?style=flat&logo=zotero&logoColor=white&color=CC2936)
+![](https://img.shields.io/badge/Tools-Mendeley-informational?style=flat&logo=mendeley&logoColor=white&color=A51C30)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
+![](https://img.shields.io/badge/Code-Stata-informational?style=flat&logoColor=white&color=0093D0)
+
 
 ## &#x1f4c8; GitHub Stats
 
