@@ -4,19 +4,23 @@
 
 <img src="https://github.com/ganthonyr/ganthonyr/blob/main/final.gif" height="430" width="400" align="right"></img>
 
-## It's Anthony Romero here 
-My name is Anthony Romero-Cerdán, I'm a medical student at the Universidad Nacional Mayor de San Marcos and member of ADIECS. Peruvian by birth, living in Lima. I am a continuous learner who likes to build small projects. I enjoy experimenting with new technologies and participate in projects with R, HTML and CSS applied to Data Science in Health (yes, I’m a bit of a geek), as well as medical research, biostatistics and clinical and public health epidemiology.
+## It's Anthony here! 
+My name is Anthony Romero-Cerdán, I'm a medical student at the Universidad Nacional Mayor de San Marcos. Peruvian by birth, living in Lima. I am a continuous learner who likes to build small projects. I enjoy experimenting with new technologies and participate in projects with R and Stata applied to Data Science in Health (yes, I’m a bit of a geek), as well as medical research, biostatistics and clinical and public health epidemiology.
 
-* 🧠 I'm learning R language, HTML & CSS, soon also in Python.
+* 🌱 I'm learning R language, HTML & CSS. 
 * 🤝 I'm open to collaborating on health data science projects.
+* 💬 Ask me about: R4HDS, biostats and public health research.
+* ⚡ Fun fact: I mix epidemiology and code the way others mix coffee and milk: daily, with passion.
+* 🎯 My goal: To make data speak (especially when it can improve lives in healthcare).
+<!--- 🔭 I’m currently working on: [Project name or area] -->
+<!-- - 👯 I’m looking to collaborate on: -->
 
-##  Contact me
-<a href="https://www.linkedin.com/in/garomeroc" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</a>&nbsp;
-<a href="https://x.com/ganthonyrc" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-</a>
+## 🌐 Contact me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%2332CD32?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garomeroc)
+[![Twitter](https://img.shields.io/badge/-Twitter-%239B59B6?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ganthonyrc)
+[![Website](https://img.shields.io/badge/-Website-%230077B5?style=flat-square&logo=web&logoColor=white)](https://anthonyromero.netlify.app/)
+
 
 ## &#x270d; Scientific Profile
 
@@ -40,9 +44,11 @@ As a scientist in training, I am actively involved in research and data science 
 <a href="http://www.github.com/ganthonyr19"><img src="https://github-readme-stats.vercel.app/api?username=ganthonyr19&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ganthonyr19's GitHub stats" /></a>
 <a href="http://www.github.com/ganthonyr19"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ganthonyr19&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<!--<a href="http://www.github.com/ganthonyr19"><img src="https://activity-graph.herokuapp.com/graph?username=ganthonyr19&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>-->
+<a href="https://github.com/ganthonyr19" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganthonyr19&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="https://github.com/ganthonyr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganthonyr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+Thanks for stopping by! 😄
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
