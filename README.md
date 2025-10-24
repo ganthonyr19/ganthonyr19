@@ -11,7 +11,12 @@ My name is Anthony Romero-Cerdán, I'm a medical student at the Universidad Naci
 * 🤝 I'm open to collaborating on health data science projects.
 
 ##  Contact me
-<a href="https://www.linkedin.com/in/garomeroc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://x.com/ganthonyrc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/garomeroc" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+</a>&nbsp;
+<a href="https://x.com/ganthonyrc" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+</a>
 
 ## &#x270d; Scientific Profile
 
