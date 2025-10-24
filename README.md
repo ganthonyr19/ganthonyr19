@@ -1,6 +1,6 @@
 <!-- This README.md is based on README from @Pratham31 (https://github.com/Pratham31) and @Psotob (https://github.com/psotob) -->
 
-<h2>{Hola mundo} ✋ <!--<img src="https://github.com/ganthonyr19/ganthonyr19/blob/main/wave.gif" width="30px"> </h2>-->
+<h2>{Hola mundo} <img src="https://github.com/ganthonyr19/ganthonyr19/blob/main/wave.gif" width="30px"> </h2>
 
 <img src="https://github.com/ganthonyr/ganthonyr/blob/main/final.gif" height="430" width="400" align="right"></img>
 
