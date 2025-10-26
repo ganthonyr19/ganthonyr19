@@ -15,6 +15,8 @@ My name is Anthony Romero-Cerdán, I'm a medical student at the Universidad Naci
 <!--- 🔭 I’m currently working on: [Project name or area] -->
 <!-- - 👯 I’m looking to collaborate on: -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganthonyr19&label=Profile%20views&color=0e75b6&style=plastic" alt="ganthonyr19" /> </p>
+
 ## 🌐 Contact me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%2332CD32?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garomeroc)
