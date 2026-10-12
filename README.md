@@ -1,52 +1,74 @@
 <!-- This README.md is based on README from @Pratham31 (https://github.com/Pratham31) and @Psotob (https://github.com/psotob) -->
 
-<h2>{Hola mundo} <img src="https://github.com/ganthonyr19/ganthonyr19/blob/main/wave.gif" width="30px"> </h2>
+<h2>{Hola mundo} <img src="wave.gif" width="30px"></h2>
 
-<img src="https://github.com/ganthonyr/ganthonyr/blob/main/final.gif" height="430" width="400" align="right"></img>
+<img src="final.gif" height="430" width="400" align="right" alt="">
 
-## It's Anthony here! 
-My name is Anthony Romero-Cerdán, I'm a medical student at the Universidad Nacional Mayor de San Marcos. Peruvian by birth, living in Lima. I am a continuous learner who likes to build small projects. I enjoy experimenting with new technologies and participate in projects with R and Stata applied to Data Science in Health (yes, I’m a bit of a geek), as well as medical research, biostatistics and clinical and public health epidemiology.
+## It's Anthony here!
 
-* 🌱 I'm learning R language, HTML & CSS. 
-* 🤝 I'm open to collaborating on health data science projects.
-* 💬 Ask me about: R4HDS, biostats and public health research.
-* ⚡ Fun fact: I mix epidemiology and code the way others mix coffee and milk: daily, with passion.
-* 🎯 My goal: To make data speak (especially when it can improve lives in healthcare).
-<!--- 🔭 I’m currently working on: [Project name or area] -->
-<!-- - 👯 I’m looking to collaborate on: -->
+I'm Anthony Romero-Cerdán, a physician graduated from the Universidad Nacional Mayor de San Marcos (Peru). I work at the intersection of medicine and data: I use R and Stata for health data science, biostatistics, and clinical and public health epidemiology (yes, I'm a bit of a geek). I'm a continuous learner who enjoys building small projects and experimenting with new tools.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganthonyr19&label=Profile%20views&color=0e75b6&style=plastic" alt="ganthonyr19" /> </p>
+- 🔭 Currently: doing my rural health service (SERUMS) in Huánuco, Peru.
+- 📊 I provide statistical analysis consulting in R for health research projects and medical theses.
+- 🌱 Always sharpening my skills in R, Stata, Quarto and Shiny.
+- 🤝 Open to collaborating on health data science and epidemiology projects.
+- 💬 Ask me about: R for health data science, biostatistics and public health research.
+- ⚡ Fun fact: I mix epidemiology and code the way others mix coffee and milk: daily, with passion.
+- 🎯 Goal: to make data speak, especially when it can improve lives in healthcare.
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=ganthonyr19&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"></p>
+
+## 📝 My website
+
+On [**anthonyromero.netlify.app**](https://anthonyromero.netlify.app/) (built with R and Quarto, in English and Spanish) I share **tutorials**, **resources** and **news** about R, RStudio and data science applied to health research.
+
+- 📌 Featured post: [Manual de instalación de R, RStudio y Rtools](https://anthonyromero.netlify.app/posts/Manual/)
+- 👤 About me and CV: [anthonyromero.netlify.app/about](https://anthonyromero.netlify.app/about.html)
+- 💻 Source code: [ganthonyr19/myblog](https://github.com/ganthonyr19/myblog)
 
 ## 🌐 Contact me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%2332CD32?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garomeroc)
-[![Twitter](https://img.shields.io/badge/-Twitter-%239B59B6?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ganthonyrc)
-[![Website](https://img.shields.io/badge/-Website-%230077B5?style=flat-square&logo=web&logoColor=white)](https://anthonyromero.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garomeroc)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ganthonyrc)
+[![Website](https://img.shields.io/badge/Website-0891B2?style=flat-square&logo=googlechrome&logoColor=white)](https://anthonyromero.netlify.app/)
 
+## ✍️ Scientific profile
 
-## &#x270d; Scientific Profile
+As a researcher, I take part in research and data science projects and publish in peer-reviewed journals. You can find my work on:
 
-As a scientist in training, I am actively involved in research and data science projects and I publish my research as papers in peer-review journals. My publications can be found on my [Google Scholar's Profile](https://scholar.google.com/citations?user=bSpylR0AAAAJ&hl=es), as well as my [ORCiD's page](https://orcid.org/0000-0001-6342-647X) or [CTI VITAE](https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=138155). 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=bSpylR0AAAAJ&hl=es)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Anthony-Romero-Cerdan-2)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6342--647X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6342-647X)
+[![CTI Vitae](https://img.shields.io/badge/CTI%20Vitae-CONCYTEC-B22222?style=flat-square)](https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=138155)
 
 ## 🔧 Skills
 
-![](https://img.shields.io/badge/Code-R%20project-informational?style=flat&logo=R&logoColor=white&color=276DC3)
-![](https://img.shields.io/badge/Code-RStudio-informational?style=flat&logo=RStudio&logoColor=white&color=75AADB)
-![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
-![](https://img.shields.io/badge/Tools-Zotero-informational?style=flat&logo=zotero&logoColor=white&color=CC2936)
-![](https://img.shields.io/badge/Tools-Mendeley-informational?style=flat&logo=mendeley&logoColor=white&color=A51C30)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
-![](https://img.shields.io/badge/Code-Stata-informational?style=flat&logoColor=white&color=0093D0)
+**Data analysis**
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudioide&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata-1A5F91?style=flat)
+![Quarto](https://img.shields.io/badge/Quarto-39729E?style=flat&logo=quarto&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-276DC3?style=flat&logo=r&logoColor=white)
 
+**Version control**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## &#x1f4c8; GitHub Stats
+**Web**
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-<a href="http://www.github.com/ganthonyr19"><img src="https://github-readme-stats.vercel.app/api?username=ganthonyr19&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ganthonyr19's GitHub stats" /></a>
-<a href="http://www.github.com/ganthonyr19"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ganthonyr19&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+**References**
+![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=flat&logo=zotero&logoColor=white)
+![Mendeley](https://img.shields.io/badge/Mendeley-9D1620?style=flat&logo=mendeley&logoColor=white)
 
-<a href="https://github.com/ganthonyr19" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganthonyr19&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 📈 GitHub stats
+
+<!-- Generated daily by .github/workflows/profile-stats.yml -->
+<img src="./profile/stats.svg" alt="GitHub stats" height="165">
+<img src="./profile/streak.svg" alt="GitHub streak" height="165">
+
+<img src="./profile/top-langs.svg" alt="Top languages">
 
 ---
 
@@ -54,7 +76,7 @@ Thanks for stopping by! 😄
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Badges: https://shields.io/ -->
+<!-- GitHub Stats Action: https://github.com/stats-organization/github-readme-stats-action -->
+<!-- Streak Stats: https://github.com/DenverCoder1/github-readme-streak-stats -->
 <!-- Awesome GitHub Profile README: https://github.com/kautukkundan/Awesome-Profile-README-templates -->
